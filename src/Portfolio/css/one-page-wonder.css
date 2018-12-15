@@ -165,6 +165,40 @@
   .page-wrap {
     margin: 0 auto;
     text-align: center;
-    padding: 30px;
+    padding: 90px 0 90px 0;
     background: #f3f3f3
     }
+
+  .page-wrap h1{
+    letter-spacing: 4px;
+    margin-bottom: 0.625em;
+    text-transform: uppercase;
+    }
+  .page-wrap p{ 
+    max-width: 60%;
+    margin: auto;
+    }
+
+ .title-line-h1{
+  letter-spacing: 1px;
+  margin-bottom: 1.625em;
+  max-width: 70%;
+  margin: auto;
+ }
+mark{
+  color: #ee0979;
+  background-color: red;
+}
+ .introduction-h3{
+  letter-spacing: 1px;
+  font-family: "ff-meta-serif-web-pro", Georgia, serif;
+  color: rgba(255, 255, 255, 0.879);
+  margin-top: 0.625em;
+  font-size: 16pt;
+  font-family: Arial, sans-serif;
+ }
+  .tag-line{
+    font-family: "ff-meta-serif-web-pro", Georgia, serif;
+    line-height: 1.30769em;
+    transition: all 0.5s ease-in-out;
+  }  

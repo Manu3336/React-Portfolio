@@ -11,14 +11,17 @@ const portfolio = () => {
     return (
         <div>
             <div>
-                {/* <NavBar /> */}
+                <NavBar />
                 <Header />
                 <section id="portfolio-desc">
-
                     <div className="page-wrap">
-                        <h2 >Portfolio</h2>
-                        <p>Below you can see some projects I've been working on lately. I divide each project into four follow-up areas: comprehensive research, wireframing, design &amp; development. This process allows me to create great product with client goals&nbsp;in&nbsp;mind.</p>
+                   
+                        <h1 >PORTFOLIO</h1>
+                        <p>Below you can see some technology stacks I've been working on lately. I divide into four follow-up areas: front-end, backend, development &amp; deployment. This process allows me to create great product with client goals&nbsp;in&nbsp;mind.</p>
                     </div>
+                  
+
+
                 </section>
                 <Section />
 

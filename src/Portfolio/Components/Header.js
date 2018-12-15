@@ -5,9 +5,12 @@ const header = () => {
         <header className="masthead text-center text-white">
             <div className="masthead-content">
                 <div className="container">
-                    <h1 className="display-4">Manu Kapoor</h1>
+                    <h1 className="title-line-h1">Before software can be reusable it first has to be usable.</h1>
+                    
+                    <h3 className="introduction-h3">Hi, I'm  <mark>Manu Kapoor</mark> a web designer & front‑end developer focused on crafting clean  & user‑friendly experiences</h3>
+                    
                     {/* <h1 className="masthead-subheading mb-0">Developer/Coder</h1> */}
-                    <h5>I'm a web designer & front‑end developer focused on crafting clean  & user‑friendly experiences</h5>
+                    {/* <h5 className = "tag-line">I'm </h5> */}
                     {/* <h2 className="masthead-subheading mb-0">Making difference</h2> */}
                     {/* <h2 className="masthead-heading mb-0">Manu Kapoor</h2> */}
                     {/* <a href="#" className="btn btn-default btn-xl rounded-pill mt-5">check my work</a> */}
