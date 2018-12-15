@@ -1,0 +1,10 @@
+.Permanent {
+    width: 60%;
+    margin: auto;
+    border: 1px;
+    border-color: black;
+    text-align: center;
+    background: #f3f3f3;
+    padding: 20px;
+    margin-top: 20px;
+}
