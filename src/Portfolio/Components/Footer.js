@@ -18,8 +18,8 @@ const footer = () => {
                     <div class="follow-links-container">
 
                         <ul id="follow-links">
-                            <li id="follow-twitter"><a href="https://twitter.com/huzic"><span aria-hidden="true" class="icon-twitter"></span>Follow me on twitter</a></li>
-                            <li id="follow-dribbble"><a href="http://dribbble.com/huzic"><span aria-hidden="true" class="icon-dribbble"></span>Follow me on dribbble</a></li>
+                            {/* <li id="follow-twitter"><a href="https://twitter.com/huzic"><span aria-hidden="true" class="icon-twitter"></span>Follow me on twitter</a></li> */}
+                            {/* <li id="follow-dribbble"><a href="http://dribbble.com/huzic"><span aria-hidden="true" class="icon-dribbble"></span>Follow me on dribbble</a></li> */}
                         </ul>
 
                     </div>

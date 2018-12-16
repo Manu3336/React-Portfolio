@@ -10,11 +10,9 @@ const contact = () => {
             <span className="icon-mail"></span>Get in touch</a>
             <div className="social-links-container">
 					<ul className="social-links">
-			    		<li><a href="https://twitter.com/huzic">Twitter</a></li>
-			    		<li><a href="http://dribbble.com/huzic">Dribbble</a></li>
-			    		<li><a href="http://www.behance.net/huzic">Behance</a></li>
-			    		<li><a href="https://www.facebook.com/pages/Pavel-Huza-UI-UX-designer/132395680117266">Facebook</a></li>
-			    		<li><a href="http://www.instagram.com/huzic">Instagram</a></li>
+			    		<li><a href="https://www.linkedin.com/in/manukapoor3/">linkedin</a></li>
+			    		<li><a href="https://www.facebook.com/manu.kapoor3">Facebook</a></li>
+			    		<li><a href="https://www.facebook.com/manu.kapoor3">Instagram</a></li>
 					</ul> 
                     
 				</div>
