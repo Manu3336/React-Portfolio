@@ -7,7 +7,7 @@ const section = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6 order-lg-2">
                         <div className="p-5">
-                            <img className="img-fluid rounded-circle" src={require('../img/05.jpg')} alt="" />
+                            <img className="img-fluid rounded-circle" src={require('../img/04.jpg')} alt="" />
                         </div>
                     </div>
                     <div className="col-lg-6 order-lg-1">
@@ -22,7 +22,7 @@ const section = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6">
                         <div className="p-5">
-                            <img className="img-fluid rounded-circle" src={require('../img/08.jpg')} alt="" />
+                            <img className="img-fluid rounded-circle" src={require('../img/05.jpg')} alt="" />
                         </div>
                     </div>
                     <div className="col-lg-6">
@@ -33,7 +33,7 @@ const section = () => {
                     </div>
                 </div>
             </div>
-            <div id = "contact" className="container">
+            <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 order-lg-2">
                         <div className="p-5">
@@ -41,8 +41,8 @@ const section = () => {
                         </div>
                     </div>
                     <div className="col-lg-6 order-lg-1">
-                    <div className="p-5">
-                            <h2 className="display-4">Full-Stack Development</h2>
+                        <div className="p-5">
+                            <h2 className="display-4">Testing</h2>
                             <p>Application development is the process of creating a computer program or a set of programs to perform the different tasks that a business requires. From calculating monthly expenses to scheduling sales reports, applications help businesses automate processes and increase efficiency.</p>
                         </div>
                     </div>
@@ -57,13 +57,13 @@ const section = () => {
                     </div>
                     <div className="col-lg-6">
                         <div className="p-5">
-                            <h2 className="display-4">Cloud Deployment</h2>
+                            <h2 className="display-4">Deployment</h2>
                             <p>Application Deployments define the package of software components that make up an application in a particular environment, e.g. development or production. Instances of these are deployed onto physical Technology Nodes to capture where that software is executing.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            
+
         </section>
     )
 }

@@ -6,9 +6,9 @@ const header = () => {
             <div className="masthead-content">
                 <div className="container">
                     <h1 className="title-line-h1">Before software can be reusable it first has to be usable.</h1>
-                    
-                    <h3 className="introduction-h3">Hi, I'm  <mark>Manu Kapoor</mark> a web designer & front‑end developer focused on crafting clean  & user‑friendly experiences</h3>
-                    
+
+                    <h3 className="introduction-h3">Hi, I'm  <mark>Manu Kapoor</mark> a web designer & front‑end developer focused on crafting clean  & user‑friendly experiences.</h3>
+
                     {/* <h1 className="masthead-subheading mb-0">Developer/Coder</h1> */}
                     {/* <h5 className = "tag-line">I'm </h5> */}
                     {/* <h2 className="masthead-subheading mb-0">Making difference</h2> */}
